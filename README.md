@@ -1,2 +1,2 @@
-#Myntra-Home-Replica
+# Myntra-Home-Replica
 This project is a responsive clone of the Myntra home page, built using HTML and CSS. It aims to replicate the look and feel of the Myntra website, focusing on layout structure, styling, and user interface design. The project demonstrates how HTML and CSS can be utilized to create a modern e-commerce webpage layout with features like navigation bars, product sections, and footers.
